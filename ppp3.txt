@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Creo archivo en mmaster
 Creo archivo en mmaster
+=======
+Creo archivo en pruebas3
+aaa en pruebas3
+>>>>>>> pruebas3
